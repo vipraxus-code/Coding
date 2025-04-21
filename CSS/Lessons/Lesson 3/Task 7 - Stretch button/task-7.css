@@ -1,0 +1,11 @@
+.strech-button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 2px 8px 2px 8px;
+  transition: 1s;
+}
+.strech-button:hover {
+  cursor: pointer;
+  padding: 8.7px 26.45025px 8.7px 26.45025px;
+}

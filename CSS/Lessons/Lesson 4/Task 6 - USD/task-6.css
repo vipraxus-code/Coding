@@ -1,0 +1,27 @@
+p {
+  font-family: Arial;
+  margin: 0px;
+}
+
+.title-1 {
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+.title-1-subtitle-1 {
+  font-size: 8px;
+  color: rgb(100, 100, 100);
+}
+
+.title-2 {
+  font-size: 8px;
+  color: green;
+  margin-bottom: 3px;
+}
+
+.title-3 {
+  font-size: 8px;
+  color: rgb(100, 100, 100);
+}
+.title-3-subtitle-1 {
+  color: red;
+}

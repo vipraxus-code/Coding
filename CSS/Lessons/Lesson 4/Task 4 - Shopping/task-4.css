@@ -1,0 +1,18 @@
+p {
+  font-family: Arial;
+  text-align: center;
+}
+
+.title-1 {
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.title-2 {
+  margin-bottom: 20px;
+}
+
+.title-3 {
+  color: rgb(58, 108, 199);
+}

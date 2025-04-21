@@ -1,0 +1,26 @@
+.get-started-button {
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(121, 82, 179);
+  height: 30px;
+  width: 90px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+.download-button {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(108, 117, 125);
+  color: rgb(108, 117, 125);
+  background-color: rgb(1255, 255, 255);
+  height: 30px;
+  width: 90px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: bold;
+}

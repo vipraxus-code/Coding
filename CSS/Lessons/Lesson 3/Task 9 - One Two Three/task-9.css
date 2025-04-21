@@ -1,0 +1,48 @@
+.left-button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 2px 8px 2px 8px;
+  margin-right: 3px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.left-button:hover {
+  cursor: pointer;
+  background-color: darkgreen;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.center-button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 2px 8px 2px 8px;
+  margin-right: 3px;
+  margin-left: 3px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.center-button:hover {
+  cursor: pointer;
+  background-color: darkgreen;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.right-button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 2px 8px 2px 8px;
+  margin-left: 3px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.right-button:hover {
+  cursor: pointer;
+  background-color: darkgreen;
+  padding-right: 16px;
+  padding-left: 16px;
+}
